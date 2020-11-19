@@ -1,0 +1,46 @@
+@media(max-width: 991px)
+{
+	h1, .banner2 h1, .banner2 h1{
+    	font-size: 30px !important;
+	}
+	.partners h1 {
+    	font-size: 32px !important;
+    	border-radius: 0px;
+    }
+    h2{
+		font-size: 24px !important;
+	}
+}
+
+@media(max-width: 767px)
+{
+	.partners {
+	    margin-top: 100px;
+	}
+	h1, .banner2 h1, .banner2 h1{
+    	font-size: 28px !important;
+	}
+	.partners h1 {
+    	font-size: 30px !important;
+    }
+	h2{
+		font-size: 22px !important;
+	}
+	.tabl p, .txt p, .banner4 p, footer a {
+    	font-size: 14px !important;
+    }
+    .ubttn{
+    	font-size: 12px;
+    }
+    .banner4 span {
+    	font-size: 60px;
+    }
+    
+}
+@media(max-width: 575px)
+{
+	.partners h1 {
+    	border-radius: 0px;
+    }
+
+}

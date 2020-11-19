@@ -1,0 +1,177 @@
+body{
+	font-family: 'Montserrat', sans-serif !important;
+}
+h1{
+    font-size: 46px !important;
+    font-weight: 700 !important;
+}
+h2{}
+h3{}
+h4{}
+h5{}
+h6{}
+p{}
+span{}
+.ubttn{
+    background: #5F67FF;
+    color: #FFF;
+    font-weight: 600;
+    font-size: 14px;
+    border-radius: 6px;
+    padding: 10px 20px;
+    border: 1px solid #5F67FF;
+    transition: all 0.3s;
+}
+.ubttn:hover{
+    background: blue;
+}
+.navbar{
+	box-shadow: 0 3px 3px #0000001a;
+}
+.navbar-brand img{
+	width: 150px;
+}
+.navbar .nav-link, .dropdown-item{
+	color: #000000c4 !important;
+    font-weight: 700 !important;
+	transition-duration: all 0.3s;
+	padding-right: 1rem !important;
+	padding-left: 1rem !important;
+}
+.navbar .nav-link:hover, .dropdown-item:hover{
+	color: #5F67FF !important;
+}
+.nav-item .dropdown-menu{
+	border: 0 !important;
+	box-shadow: 3px 3px 3px #0000001f;
+}
+.Searchbar .dropdown-menu{
+	left: auto;
+	right: 50px;
+	top: 80%;
+}
+.partners{
+	margin-top: 150px;
+}
+.partners h1{
+    padding: 10px 60px;
+    background: #5F67FF;
+    color: #FFF;
+    text-align: center;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    font-size: 36px !important;
+}
+.banner1{
+	padding: 50px 0px;
+}
+.banner1 .row div{}
+.tabl{
+    box-shadow: 0 10px 15px 0px #5f5f5f38;
+    padding: 30px 30px;
+    border-radius: 6px;
+}
+.banner1 h1{
+    color: #5F67FF;
+    padding: 5px 0px;
+}
+.banner1 h2{
+    font-weight: 700;
+    color: #545454;
+    margin-bottom: 50px;
+}
+.tabl h3, .txt h3{
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+}
+.tabl p, .txt p{
+    font-size: 15px !important;
+    font-weight: 500;
+    line-height: 1.5;
+}
+.banner1 img{
+    max-width: 100%;
+    margin-bottom: 30px;
+}
+.banner2{
+	padding: 50px 0px;
+}
+.banner2 .img-holder{}
+.banner2 h1{
+    color: #5F67FF;
+    font-size: 30px !important;
+    margin-bottom: 10px;
+}
+.banner3{
+	padding: 50px 0px;
+}
+.banner3 img{
+	max-width: 100%;
+	height: 50px;
+}
+.banner3 .tabl{
+	margin-bottom: 30px;
+	border-top: 5px solid #5F67FF;
+	border-radius: 0;
+}
+.banner3 .text-center {
+    color: #5F67FF;
+}
+.banner4 {
+	padding: 50px 0px;
+}
+.banner4 h2{
+    font-size: 36px;
+    font-weight: 700;
+}
+.banner4 span{
+	color: #5F67FF;
+	font-weight: 500;
+	font-size: 80px;
+}
+.banner4 h3{
+    font-size: 18px;
+    font-weight: 800;
+    color: #333;
+}
+.banner4 p{
+    font-size: 15px !important;
+    font-weight: 500;
+    line-height: 1.5;
+}
+footer{
+    background: #333333;
+    color: #FFF;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+footer ul{
+	list-style-type: none;
+}
+footer li{
+	padding: 5px 0px;
+}
+footer h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+footer a{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 15px;
+    transition-duration: 0.3s;
+}
+footer a:hover{
+    color: #5F67FF !important;
+}
+.cpy p{
+	font-size: 12px;
+	opacity: 0.9;
+	margin: 0;
+}
+
+
+
+
+
