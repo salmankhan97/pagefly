@@ -108,7 +108,7 @@ span{}
 }
 .banner3 img{
 	max-width: 100%;
-	height: 50px;
+	max-height: 50px;
 }
 .banner3 .tabl{
 	margin-bottom: 30px;
